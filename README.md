@@ -1,16 +1,81 @@
-## Hi there 👋
+# 💻 Leandro Lima 
 
-<!--
-**leandrolima25prog/leandrolima25prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FrontEnd`**
 
-Here are some ideas to get you started:
+Me chamo Leando Lima, atualmente sou aluno da Mate Academy e da DIO (Digital Innovation One), com foco em HTML, CSS, TypeScript, React.js e desenvolvimento de interfaces responsivas. Experiência prática na construção de projetos reais, versionamento com Git e boas práticas de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br/>
+<br/>
+
+### Linguagens e tecnologias
+
+
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📈 Estatística  
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leandrolima25prog&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
