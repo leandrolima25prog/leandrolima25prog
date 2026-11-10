@@ -1,69 +1,23 @@
 # 💻 Leandro Lima 
 
-**`Desenvolvedor FrontEnd`**
+**`Analista de dados jr`**
 
-Me chamo Leando Lima, atualmente sou aluno da Mate Academy e da DIO (Digital Innovation One), com foco em HTML, CSS, TypeScript, React.js e desenvolvimento de interfaces responsivas. Experiência prática na construção de projetos reais, versionamento com Git e boas práticas de código.
+Atualmente, estou concluindo o curso de Análista de Dados na Mate Academy e também estou aprofundando meu conhecimento com o curso: Inteligência Artificial e Machine Learning, com especialização em Desenvolvimento de IA para Análise Preditiva no SENAI/SC. Tenho experiência prática no ecossistema de dados com Python, manipulando, analisando e visualizando dados com bibliotecas como Pandas, NumPy, Matplotlib, Seaborn e Scikit-learn, além de consultas e estruturações de banco de dados via SQL.
+
+Minhas principais frentes de atuação e estudo:
+
+Análise Exploratória e Tratamento de Dados: Limpeza, transformação e extração de padrões ocultos.
+
+Modelagem Preditiva e Machine Learning: Algoritmos de classificação, regressão e avaliação de performance.
+
+Visualização de Dados: Comunicação clara de insights técnicos para tomadores de decisão.
 
 ---
-<br/>
-<br/>
-
-### Linguagens e tecnologias
 
 
 
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
 
 
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
 
 ### 📈 GitHub Stats  
 
